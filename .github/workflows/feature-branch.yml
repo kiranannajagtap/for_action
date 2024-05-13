@@ -7,7 +7,7 @@ on:
    - main
  push:
     branches:
-      - hotfix/**
+      - feature/**
 
 jobs:
   deploy-dev:
